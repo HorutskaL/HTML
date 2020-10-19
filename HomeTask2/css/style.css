@@ -1,0 +1,27 @@
+body{
+    background-color: rgba(193, 247, 236, 0.5);
+    color: rgb(10, 48, 42);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1{
+text-align: center;
+}
+.first-div{
+    width: 50%;
+    height: 150px;
+    float: left;
+}
+#img-main{
+    width: 150px;
+    height: 150px;
+}
+.img-galery{
+    width: 250px;
+    height: 250px;
+    border:  rgb(10, 48, 42) 4px outset;
+    border-radius: 10%;
+}
+hr{
+    /* color:  rgb(10, 48, 42); */
+    border:  1px solid rgb(10, 48, 42);
+}
